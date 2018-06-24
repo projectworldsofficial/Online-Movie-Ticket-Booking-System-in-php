@@ -1,0 +1,93 @@
+[21-May-2017 05:29:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/web/index.php on line 304
+[21-May-2017 09:01:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/movies_events.php on line 95
+[21-May-2017 09:01:06 UTC] PHP Stack trace:
+[21-May-2017 09:01:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/movies_events.php:0
+[21-May-2017 09:01:06 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/movies_events.php:95
+[21-May-2017 09:10:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/index.php on line 45
+[21-May-2017 09:10:01 UTC] PHP Stack trace:
+[21-May-2017 09:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:10:01 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/index.php:45
+[21-May-2017 09:10:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/movie_sidebar.php on line 18
+[21-May-2017 09:10:01 UTC] PHP Stack trace:
+[21-May-2017 09:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:10:01 UTC] PHP   2. include() /home/ubuntu/workspace/web/index.php:211
+[21-May-2017 09:10:01 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/web/movie_sidebar.php:18
+[21-May-2017 09:11:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/index.php on line 45
+[21-May-2017 09:11:14 UTC] PHP Stack trace:
+[21-May-2017 09:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:11:14 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/index.php:45
+[21-May-2017 09:11:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/movie_sidebar.php on line 18
+[21-May-2017 09:11:14 UTC] PHP Stack trace:
+[21-May-2017 09:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:11:14 UTC] PHP   2. include() /home/ubuntu/workspace/web/index.php:211
+[21-May-2017 09:11:14 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/web/movie_sidebar.php:18
+[21-May-2017 09:11:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/index.php on line 45
+[21-May-2017 09:11:39 UTC] PHP Stack trace:
+[21-May-2017 09:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:11:39 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/index.php:45
+[21-May-2017 09:11:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/movie_sidebar.php on line 18
+[21-May-2017 09:11:39 UTC] PHP Stack trace:
+[21-May-2017 09:11:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:11:39 UTC] PHP   2. include() /home/ubuntu/workspace/web/index.php:211
+[21-May-2017 09:11:39 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/web/movie_sidebar.php:18
+[21-May-2017 09:14:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/web/index.php on line 45
+[21-May-2017 09:14:09 UTC] PHP Stack trace:
+[21-May-2017 09:14:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:14:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/index.php:45
+[21-May-2017 09:20:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/web/index.php on line 44
+[21-May-2017 09:20:22 UTC] PHP Stack trace:
+[21-May-2017 09:20:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:20:22 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/web/index.php:44
+[21-May-2017 09:20:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/web/index.php on line 45
+[21-May-2017 09:20:22 UTC] PHP Stack trace:
+[21-May-2017 09:20:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/index.php:0
+[21-May-2017 09:20:22 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/index.php:45
+[21-May-2017 10:22:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/web/process_search.php on line 3
+[21-May-2017 10:22:11 UTC] PHP Stack trace:
+[21-May-2017 10:22:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_search.php:0
+[21-May-2017 10:22:11 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/web/process_search.php:3
+[21-May-2017 10:22:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/web/process_search.php on line 4
+[21-May-2017 10:22:11 UTC] PHP Stack trace:
+[21-May-2017 10:22:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_search.php:0
+[21-May-2017 10:22:11 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/process_search.php:4
+[21-May-2017 10:22:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/web/process_search.php on line 3
+[21-May-2017 10:22:20 UTC] PHP Stack trace:
+[21-May-2017 10:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_search.php:0
+[21-May-2017 10:22:20 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/web/process_search.php:3
+[21-May-2017 10:22:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/web/process_search.php on line 4
+[21-May-2017 10:22:20 UTC] PHP Stack trace:
+[21-May-2017 10:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_search.php:0
+[21-May-2017 10:22:20 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/process_search.php:4
+[21-May-2017 10:22:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/web/process_search.php on line 3
+[21-May-2017 10:22:28 UTC] PHP Stack trace:
+[21-May-2017 10:22:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_search.php:0
+[21-May-2017 10:22:28 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/web/process_search.php:3
+[21-May-2017 10:22:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/web/process_search.php on line 4
+[21-May-2017 10:22:28 UTC] PHP Stack trace:
+[21-May-2017 10:22:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_search.php:0
+[21-May-2017 10:22:28 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/web/process_search.php:4
+[21-May-2017 10:48:21 UTC] PHP Parse error:  syntax error, unexpected 'config' (T_STRING) in /home/ubuntu/workspace/web/process_contact.php on line 3
+[21-May-2017 10:49:51 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/web/process_contact.php on line 3
+[21-May-2017 10:53:01 UTC] PHP Fatal error:  Call to undefined function location() in /home/ubuntu/workspace/web/process_contact.php on line 6
+[21-May-2017 10:53:01 UTC] PHP Stack trace:
+[21-May-2017 10:53:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_contact.php:0
+[21-May-2017 11:04:12 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/web/process_contact.php on line 3
+[21-May-2017 11:04:12 UTC] PHP Stack trace:
+[21-May-2017 11:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_contact.php:0
+[21-May-2017 11:04:12 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/web/process_contact.php on line 3
+[21-May-2017 11:04:12 UTC] PHP Stack trace:
+[21-May-2017 11:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_contact.php:0
+[21-May-2017 11:04:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/web/process_contact.php on line 5
+[21-May-2017 11:04:12 UTC] PHP Stack trace:
+[21-May-2017 11:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_contact.php:0
+[21-May-2017 11:04:12 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/web/process_contact.php:5
+[21-May-2017 11:05:17 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/web/process_contact.php on line 3
+[21-May-2017 11:05:17 UTC] PHP Stack trace:
+[21-May-2017 11:05:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_contact.php:0
+[21-May-2017 11:05:17 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/web/process_contact.php on line 3
+[21-May-2017 11:05:17 UTC] PHP Stack trace:
+[21-May-2017 11:05:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_contact.php:0
+[21-May-2017 11:05:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/web/process_contact.php on line 5
+[21-May-2017 11:05:17 UTC] PHP Stack trace:
+[21-May-2017 11:05:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/web/process_contact.php:0
+[21-May-2017 11:05:17 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/web/process_contact.php:5

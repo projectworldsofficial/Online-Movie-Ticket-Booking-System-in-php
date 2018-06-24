@@ -1,0 +1,21 @@
+[21-May-2017 18:11:18 UTC] PHP Warning:  move_uploaded_file(news_images/330712.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/pages/process_add_news.php on line 6
+[21-May-2017 18:11:18 UTC] PHP Stack trace:
+[21-May-2017 18:11:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/pages/process_add_news.php:0
+[21-May-2017 18:11:18 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/admin/pages/process_add_news.php:6
+[21-May-2017 18:11:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBLO5HS' to 'news_images/330712.png' in /home/ubuntu/workspace/admin/pages/process_add_news.php on line 6
+[21-May-2017 18:11:18 UTC] PHP Stack trace:
+[21-May-2017 18:11:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/pages/process_add_news.php:0
+[21-May-2017 18:11:18 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/admin/pages/process_add_news.php:6
+[21-May-2017 18:57:13 UTC] PHP Warning:  move_uploaded_file(news_images/cia-new-poster-759.jpeg): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/pages/process_add_news.php on line 6
+[21-May-2017 18:57:13 UTC] PHP Stack trace:
+[21-May-2017 18:57:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/pages/process_add_news.php:0
+[21-May-2017 18:57:13 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/admin/pages/process_add_news.php:6
+[21-May-2017 18:57:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaowJIn' to 'news_images/cia-new-poster-759.jpeg' in /home/ubuntu/workspace/admin/pages/process_add_news.php on line 6
+[21-May-2017 18:57:13 UTC] PHP Stack trace:
+[21-May-2017 18:57:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/pages/process_add_news.php:0
+[21-May-2017 18:57:13 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/admin/pages/process_add_news.php:6
+[22-May-2017 17:39:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/admin/pages/index.php on line 69
+[22-May-2017 17:40:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/admin/pages/index.php on line 71
+[22-May-2017 20:02:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/admin/pages/index.php on line 56
+[22-May-2017 20:02:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/admin/pages/index.php on line 56
+[22-May-2017 20:02:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/admin/pages/index.php on line 56

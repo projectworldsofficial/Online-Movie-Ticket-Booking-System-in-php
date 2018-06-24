@@ -1,0 +1,128 @@
+[20-May-2017 18:08:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/theatre/pages/header.php on line 8
+[20-May-2017 18:08:01 UTC] PHP Stack trace:
+[20-May-2017 18:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[20-May-2017 18:08:01 UTC] PHP   2. include() /home/ubuntu/workspace/theatre/pages/index.php:2
+[20-May-2017 18:08:01 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/theatre/pages/header.php:8
+[20-May-2017 18:08:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/theatre/pages/header.php on line 9
+[20-May-2017 18:08:01 UTC] PHP Stack trace:
+[20-May-2017 18:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[20-May-2017 18:08:01 UTC] PHP   2. include() /home/ubuntu/workspace/theatre/pages/index.php:2
+[20-May-2017 18:08:01 UTC] PHP   3. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/header.php:9
+[20-May-2017 19:10:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/theatre/pages/process_add_movie.php on line 8
+[21-May-2017 07:15:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/theatre/pages/view_shows.php on line 50
+[21-May-2017 07:15:29 UTC] PHP Warning:  mysqli_query(): (21000/1242): Subquery returns more than 1 row in /home/ubuntu/workspace/theatre/pages/view_shows.php on line 44
+[21-May-2017 07:15:29 UTC] PHP Stack trace:
+[21-May-2017 07:15:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/view_shows.php:0
+[21-May-2017 07:15:29 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/theatre/pages/view_shows.php:44
+[21-May-2017 07:16:41 UTC] PHP Warning:  mysqli_query(): (21000/1242): Subquery returns more than 1 row in /home/ubuntu/workspace/theatre/pages/view_shows.php on line 44
+[21-May-2017 07:16:41 UTC] PHP Stack trace:
+[21-May-2017 07:16:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/view_shows.php:0
+[21-May-2017 07:16:41 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/theatre/pages/view_shows.php:44
+[21-May-2017 07:44:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/theatre/pages/view_shows.php on line 88
+[21-May-2017 08:17:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/theatre/pages/todays_shows.php on line 66
+[22-May-2017 18:47:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 40
+[22-May-2017 18:47:17 UTC] PHP Stack trace:
+[22-May-2017 18:47:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:17 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:40
+[22-May-2017 18:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 43
+[22-May-2017 18:47:40 UTC] PHP Stack trace:
+[22-May-2017 18:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:43
+[22-May-2017 18:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 43
+[22-May-2017 18:47:40 UTC] PHP Stack trace:
+[22-May-2017 18:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:43
+[22-May-2017 18:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 43
+[22-May-2017 18:47:40 UTC] PHP Stack trace:
+[22-May-2017 18:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:43
+[22-May-2017 18:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 43
+[22-May-2017 18:47:40 UTC] PHP Stack trace:
+[22-May-2017 18:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:43
+[22-May-2017 18:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 43
+[22-May-2017 18:47:40 UTC] PHP Stack trace:
+[22-May-2017 18:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:43
+[22-May-2017 18:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 43
+[22-May-2017 18:47:40 UTC] PHP Stack trace:
+[22-May-2017 18:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:43
+[22-May-2017 18:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 43
+[22-May-2017 18:47:40 UTC] PHP Stack trace:
+[22-May-2017 18:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:43
+[22-May-2017 18:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 43
+[22-May-2017 18:47:40 UTC] PHP Stack trace:
+[22-May-2017 18:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:47:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:43
+[22-May-2017 18:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:49:09 UTC] PHP Stack trace:
+[22-May-2017 18:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:49:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:49:09 UTC] PHP Stack trace:
+[22-May-2017 18:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:49:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:49:09 UTC] PHP Stack trace:
+[22-May-2017 18:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:49:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:49:09 UTC] PHP Stack trace:
+[22-May-2017 18:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:49:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:49:09 UTC] PHP Stack trace:
+[22-May-2017 18:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:49:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:49:09 UTC] PHP Stack trace:
+[22-May-2017 18:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:49:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:49:09 UTC] PHP Stack trace:
+[22-May-2017 18:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:49:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:49:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:49:09 UTC] PHP Stack trace:
+[22-May-2017 18:49:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:49:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:50:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:50:29 UTC] PHP Stack trace:
+[22-May-2017 18:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:50:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:50:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:50:29 UTC] PHP Stack trace:
+[22-May-2017 18:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:50:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:50:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:50:29 UTC] PHP Stack trace:
+[22-May-2017 18:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:50:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:50:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:50:29 UTC] PHP Stack trace:
+[22-May-2017 18:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:50:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:50:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:50:29 UTC] PHP Stack trace:
+[22-May-2017 18:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:50:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:50:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:50:29 UTC] PHP Stack trace:
+[22-May-2017 18:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:50:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:50:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:50:29 UTC] PHP Stack trace:
+[22-May-2017 18:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:50:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 18:50:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/theatre/pages/index.php on line 44
+[22-May-2017 18:50:29 UTC] PHP Stack trace:
+[22-May-2017 18:50:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/index.php:0
+[22-May-2017 18:50:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/theatre/pages/index.php:44
+[22-May-2017 20:37:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/theatre/pages/process_addshow.php on line 5
+[22-May-2017 20:37:42 UTC] PHP Stack trace:
+[22-May-2017 20:37:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/process_addshow.php:0
+[22-May-2017 20:41:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/theatre/pages/process_addshow.php on line 5
+[22-May-2017 20:41:35 UTC] PHP Stack trace:
+[22-May-2017 20:41:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/theatre/pages/process_addshow.php:0
