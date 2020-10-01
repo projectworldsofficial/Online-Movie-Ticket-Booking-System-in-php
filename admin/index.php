@@ -60,6 +60,73 @@
 <script src="plugins/iCheck/icheck.min.js"></script>
 <script>
   $(function () {
+		  var email = document.myForm.email.value;
+		  var pass = document.myForm.password.value;
+    if( email == "" )
+         {
+            document.getElementById("email").innerHTML="Please Fill the username field";
+            document.myForm.email.focus() ;
+            return false;
+         }
+		 else{
+			document.getElementById("email").innerHTML=""; 
+		 }
+		 if((email.length <= 5) || (email.length > 25) )
+		 {
+			document.getElementById("email").innerHTML="user length must be between 5 and 25";
+            document.myForm.email.focus() ;
+            return false;
+		 }
+		 else{
+			document.getElementById("email").innerHTML=""; 
+		 }
+		 if(!isNaN(email))
+		 {
+			document.getElementById("email").innerHTML="Only character allowed";
+            document.myForm.email.focus() ;
+            return false;
+		 }
+		 else{
+			document.getElementById("email").innerHTML=""; 
+		 }
+		 if(email.indexOf('@') <= 0)
+		 {
+			document.getElementById("email").innerHTML="@ Invalid Position ";
+            document.myForm.email.focus() ;
+            return false;
+		 }
+		 else{
+			document.getElementById("email").innerHTML=""; 
+		 }
+		 if((email.charAt(email.length-4)!='.') && (email.charAt(email.length-3)!='.'))
+		 {
+			document.getElementById("email").innerHTML=". Invalid Position ";
+            document.myForm.email.focus() ;
+			 return false;
+		 }
+		 else
+		 {
+			 document.getElementById("email").innerHTML="";
+		 }
+		 
+		if( pass == "" )
+         {
+            document.getElementById("password").innerHTML="Please Fill the password field";
+            document.myForm.password.focus() ;
+            return false;
+         }
+		 else{
+			document.getElementById("password").innerHTML=""; 
+		 }
+		 if((pass.length <= 5) || (pass.length > 20) )
+		 {
+			document.getElementById("password").innerHTML="password length must be between 5 and 20";
+            document.myForm.password.focus() ;
+            return false;
+		 }	
+		else{
+			document.getElementById("password").innerHTML=""; 
+		 }
     $('input').iCheck({
       checkboxClass: 'icheckbox_square-blue',
       radioClass: 'iradio_square-blue',
