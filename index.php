@@ -42,7 +42,7 @@ include('header.php');
 					<h3>Trending Trailers</h3>
 						<div class="middle-list">
 					<?php 
-					$qry4=mysqli_query($con,"select * from tbl_movie order by rand()");
+					$qry4=mysqli_query($con,"select * from tbl_movie order by id()");
 				
 					while($nm=mysqli_fetch_array($qry4))
 					{
